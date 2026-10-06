@@ -24,7 +24,7 @@
 
 ## 素材
 - 背景・人物・タイトル画：画像生成AI（OpenAI）で作成
-- タイトルロゴのフォント：[Bodoni Moda](https://fonts.google.com/specimen/Bodoni+Moda)（SIL Open Font License）
+- タイトルロゴ：作者提供の透過PNG
 - 爆発音（いずれも CC0）
   - [Mechanical Explosion](https://opengameart.org/content/mechanical-explosion) — Spring Spring
   - [Muffled Distant Explosion](https://opengameart.org/content/muffled-distant-explosion) — NenadSimic
