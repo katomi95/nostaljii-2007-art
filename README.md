@@ -21,3 +21,10 @@
 - `index.html` — ゲーム本体（HTML / CSS / JavaScript、外部ライブラリなし）
 - `assets/` — 背景・人物・タイトルの画像（JPEG）
 - 効果音と環境音は Web Audio API で生成
+
+## 素材
+- 背景・人物・タイトル画：画像生成AI（OpenAI）で作成
+- タイトルロゴのフォント：[Bodoni Moda](https://fonts.google.com/specimen/Bodoni+Moda)（SIL Open Font License）
+- 爆発音（いずれも CC0）
+  - [Mechanical Explosion](https://opengameart.org/content/mechanical-explosion) — Spring Spring
+  - [Muffled Distant Explosion](https://opengameart.org/content/muffled-distant-explosion) — NenadSimic
